@@ -28,3 +28,4 @@ This project covers advanced Python concepts around type annotations:
 | 4 | `4-define_variables.py` | Define and annotate variables `a`, `pi`, `i_understand_annotations`, and `school` |
 | 5 | `5-sum_list.py` | Type-annotated function `sum_list` that takes a list of floats and returns their sum as a float |
 | 6 | `6-sum_mixed_list.py` | Type-annotated function `sum_mixed_list` that takes a list of ints/floats and returns their sum as a float |
+| 7 | `7-to_kv.py` | Type-annotated function `to_kv` that takes a string and an int/float and returns a tuple with the string and the square of the value |
