@@ -24,3 +24,4 @@ This project covers asynchronous programming in Python:
 | Task | File | Description |
 | ---- | ---- | ----------- |
 | 0 | `0-basic_async_syntax.py` | Asynchronous coroutine `wait_random` that waits for a random delay between 0 and `max_delay` seconds and returns it |
+| 1 | `1-concurrent_coroutines.py` | Coroutine `wait_n` that spawns `wait_random` n times and returns the delays in ascending order |
