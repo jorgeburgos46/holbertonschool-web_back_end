@@ -30,3 +30,4 @@ This project covers advanced Python concepts around type annotations:
 | 6 | `6-sum_mixed_list.py` | Type-annotated function `sum_mixed_list` that takes a list of ints/floats and returns their sum as a float |
 | 7 | `7-to_kv.py` | Type-annotated function `to_kv` that takes a string and an int/float and returns a tuple with the string and the square of the value |
 | 8 | `8-make_multiplier.py` | Type-annotated function `make_multiplier` that returns a function multiplying a float by a given multiplier |
+| 9 | `9-element_length.py` | Duck-typed annotation of `element_length`, returning a list of tuples with each element and its length |
