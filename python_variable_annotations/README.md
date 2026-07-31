@@ -27,3 +27,4 @@ This project covers advanced Python concepts around type annotations:
 | 3 | `3-to_str.py` | Type-annotated function `to_str` that takes a float and returns its string representation |
 | 4 | `4-define_variables.py` | Define and annotate variables `a`, `pi`, `i_understand_annotations`, and `school` |
 | 5 | `5-sum_list.py` | Type-annotated function `sum_list` that takes a list of floats and returns their sum as a float |
+| 6 | `6-sum_mixed_list.py` | Type-annotated function `sum_mixed_list` that takes a list of ints/floats and returns their sum as a float |
