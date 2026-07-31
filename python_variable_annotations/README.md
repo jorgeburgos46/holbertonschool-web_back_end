@@ -22,3 +22,4 @@ This project covers advanced Python concepts around type annotations:
 | Task | File | Description |
 | ---- | ---- | ----------- |
 | 0 | `0-add.py` | Type-annotated function `add` that takes two floats and returns their sum as a float |
+| 1 | `1-concat.py` | Type-annotated function `concat` that takes two strings and returns their concatenation |
