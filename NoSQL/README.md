@@ -27,3 +27,8 @@ PyMongo.
 
 `0-list_databases` is a mongo shell script that lists all databases in
 MongoDB.
+
+### 1. Create a database
+
+`1-use_or_create_database` is a mongo shell script that switches to (and
+creates if needed) the `my_db` database.
