@@ -53,3 +53,9 @@ collection.
 
 `5-count` is a mongo shell script that displays the number of
 documents in the `school` collection.
+
+### 6. Update
+
+`6-update` is a mongo shell script that adds an `address` attribute
+set to `"972 Mission street"` to all documents with
+`name="Holberton school"` in the `school` collection.
