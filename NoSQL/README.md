@@ -64,3 +64,9 @@ set to `"972 Mission street"` to all documents with
 
 `7-delete` is a mongo shell script that deletes all documents with
 `name="Holberton school"` in the `school` collection.
+
+### 8. List all documents in Python
+
+`8-all.py` contains `list_all`, a Python function using PyMongo that
+returns a list of all documents in a given collection, or an empty
+list if the collection has no document.
