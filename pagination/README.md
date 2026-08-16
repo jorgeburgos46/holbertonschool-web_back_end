@@ -22,3 +22,14 @@ This project explores different techniques to paginate a dataset:
 `0-simple_helper_function.py` contains `index_range`, which takes `page`
 and `page_size` and returns a tuple `(start_index, end_index)` for the
 corresponding pagination range.
+
+### 1. Simple pagination
+
+`1-simple_pagination.py` contains a `Server` class that paginates the
+`Popular_Baby_Names.csv` dataset. `Server.get_page` takes `page` and
+`page_size` (both defaulting and validated as positive integers) and
+returns the corresponding page of rows, or an empty list if the
+arguments are out of range.
+
+**Note:** `Popular_Baby_Names.csv` must be placed in this directory for
+`1-main.py` to run.
