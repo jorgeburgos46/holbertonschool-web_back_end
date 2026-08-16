@@ -76,3 +76,9 @@ list if the collection has no document.
 `9-insert_school.py` contains `insert_school`, a Python function using
 PyMongo that inserts a new document in a collection based on kwargs
 and returns the new document's `_id`.
+
+### 10. Change school topics
+
+`10-update_topics.py` contains `update_topics`, a Python function
+using PyMongo that changes all `topics` of a school document based on
+its `name`.
