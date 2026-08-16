@@ -48,3 +48,8 @@ collection.
 
 `4-match` is a mongo shell script that lists all documents with
 `name="Holberton school"` in the `school` collection.
+
+### 5. Count
+
+`5-count` is a mongo shell script that displays the number of
+documents in the `school` collection.
