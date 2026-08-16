@@ -39,3 +39,10 @@ arguments are out of range.
 `2-hypermedia_pagination.py` adds `Server.get_hyper`, which reuses
 `get_page` and returns a dictionary with `page_size`, `page`, `data`,
 `next_page`, `prev_page` and `total_pages` for the requested page.
+
+### 3. Deletion-resilient hypermedia pagination
+
+`3-hypermedia_del_pagination.py` adds `Server.get_hyper_index`, which
+indexes the dataset by original position and paginates from a start
+`index`, so that pages remain consistent even if rows are deleted from
+the dataset between two queries.
