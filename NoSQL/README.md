@@ -70,3 +70,9 @@ set to `"972 Mission street"` to all documents with
 `8-all.py` contains `list_all`, a Python function using PyMongo that
 returns a list of all documents in a given collection, or an empty
 list if the collection has no document.
+
+### 9. Insert a document in Python
+
+`9-insert_school.py` contains `insert_school`, a Python function using
+PyMongo that inserts a new document in a collection based on kwargs
+and returns the new document's `_id`.
