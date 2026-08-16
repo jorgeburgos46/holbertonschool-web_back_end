@@ -43,3 +43,8 @@ collection.
 
 `3-all` is a mongo shell script that lists all documents in the
 `school` collection.
+
+### 4. All matches
+
+`4-match` is a mongo shell script that lists all documents with
+`name="Holberton school"` in the `school` collection.
