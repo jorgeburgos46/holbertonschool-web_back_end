@@ -32,3 +32,9 @@ MongoDB.
 
 `1-use_or_create_database` is a mongo shell script that switches to (and
 creates if needed) the `my_db` database.
+
+### 2. Insert document
+
+`2-insert` is a mongo shell script that inserts a document with a
+`name` attribute set to `"Holberton school"` into the `school`
+collection.
