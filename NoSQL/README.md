@@ -88,3 +88,10 @@ its `name`.
 `11-schools_by_topic.py` contains `schools_by_topic`, a Python
 function using PyMongo that returns the list of schools having a
 specific topic.
+
+### 12. Log stats
+
+`12-log_stats.py` is a Python script that connects to the `logs.nginx`
+collection in MongoDB and displays stats about the stored Nginx logs:
+total document count, count per HTTP method (GET, POST, PUT, PATCH,
+DELETE), and the count of GET requests to the `/status` path.
