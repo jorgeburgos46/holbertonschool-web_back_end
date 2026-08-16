@@ -38,3 +38,8 @@ creates if needed) the `my_db` database.
 `2-insert` is a mongo shell script that inserts a document with a
 `name` attribute set to `"Holberton school"` into the `school`
 collection.
+
+### 3. All documents
+
+`3-all` is a mongo shell script that lists all documents in the
+`school` collection.
