@@ -33,3 +33,9 @@ arguments are out of range.
 
 **Note:** `Popular_Baby_Names.csv` must be placed in this directory for
 `1-main.py` to run.
+
+### 2. Hypermedia pagination
+
+`2-hypermedia_pagination.py` adds `Server.get_hyper`, which reuses
+`get_page` and returns a dictionary with `page_size`, `page`, `data`,
+`next_page`, `prev_page` and `total_pages` for the requested page.
