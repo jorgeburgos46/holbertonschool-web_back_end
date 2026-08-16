@@ -82,3 +82,9 @@ and returns the new document's `_id`.
 `10-update_topics.py` contains `update_topics`, a Python function
 using PyMongo that changes all `topics` of a school document based on
 its `name`.
+
+### 11. Where can I learn Python?
+
+`11-schools_by_topic.py` contains `schools_by_topic`, a Python
+function using PyMongo that returns the list of schools having a
+specific topic.
