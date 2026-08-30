@@ -25,3 +25,4 @@ static methods, `throw` / `try`, the `await` operator, and `async` functions.
 | `6-final-user.js` | `handleProfileSignup` settles both promises with `Promise.allSettled` |
 | `7-load_balancer.js` | `loadBalancer` returns the value of whichever promise resolves first |
 | `8-try.js` | `divideFunction` divides or throws on a zero denominator |
+| `9-try.js` | `guardrail` runs a function and collects result/error plus a processed message |
