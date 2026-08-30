@@ -23,3 +23,4 @@ static methods, `throw` / `try`, the `await` operator, and `async` functions.
 | `4-user-promise.js` | `signUpUser` returns a resolved Promise with the user object |
 | `5-photo-reject.js` | `uploadPhoto` returns a Promise rejecting with an Error |
 | `6-final-user.js` | `handleProfileSignup` settles both promises with `Promise.allSettled` |
+| `7-load_balancer.js` | `loadBalancer` returns the value of whichever promise resolves first |
