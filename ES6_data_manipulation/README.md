@@ -27,3 +27,4 @@ and the `Set`, `Map`, and `WeakMap` data structures.
 | `7-has_array_values.js` | `hasValuesFromArray` checks every array value is in the set |
 | `8-clean_set.js` | `cleanSet` joins set values matching a prefix, minus the prefix |
 | `9-groceries_list.js` | `groceriesList` returns a Map of groceries |
+| `10-update_uniq_items.js` | `updateUniqueItems` sets quantity 1 entries to 100 |
