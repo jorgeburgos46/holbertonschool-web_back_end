@@ -17,3 +17,4 @@ static methods, `throw` / `try`, the `await` operator, and `async` functions.
 | File | Description |
 | ---- | ----------- |
 | `0-promise.js` | `getResponseFromAPI` returns a resolved Promise |
+| `1-promise.js` | `getFullResponseFromAPI` resolves or rejects based on a boolean |
