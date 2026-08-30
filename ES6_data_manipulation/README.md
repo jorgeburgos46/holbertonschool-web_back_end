@@ -24,3 +24,4 @@ and the `Set`, `Map`, and `WeakMap` data structures.
 | `4-update_grade_by_city.js` | `updateStudentGradeByCity` filters by city and maps in new grades |
 | `5-typed_arrays.js` | `createInt8TypedArray` sets an Int8 value in a DataView |
 | `6-set.js` | `setFromArray` builds a Set from an array |
+| `7-has_array_values.js` | `hasValuesFromArray` checks every array value is in the set |
