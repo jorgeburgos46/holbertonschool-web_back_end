@@ -21,3 +21,4 @@ and the `Set`, `Map`, and `WeakMap` data structures.
 | `1-get_list_student_ids.js` | `getListStudentIds` maps a list of students to their ids |
 | `2-get_students_by_loc.js` | `getStudentsByLocation` filters students by city |
 | `3-get_ids_sum.js` | `getStudentIdsSum` reduces students to the sum of their ids |
+| `4-update_grade_by_city.js` | `updateStudentGradeByCity` filters by city and maps in new grades |
