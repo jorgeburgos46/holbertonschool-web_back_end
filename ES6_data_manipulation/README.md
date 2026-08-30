@@ -18,3 +18,4 @@ and the `Set`, `Map`, and `WeakMap` data structures.
 | File | Description |
 | ---- | ----------- |
 | `0-get_list_students.js` | `getListStudents` returns an array of student objects |
+| `1-get_list_student_ids.js` | `getListStudentIds` maps a list of students to their ids |
