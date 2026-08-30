@@ -20,3 +20,4 @@ static methods, `throw` / `try`, the `await` operator, and `async` functions.
 | `1-promise.js` | `getFullResponseFromAPI` resolves or rejects based on a boolean |
 | `2-then.js` | `handleResponseFromAPI` appends then/catch/finally handlers |
 | `3-all.js` | `handleProfileSignup` resolves uploadPhoto and createUser with `Promise.all` |
+| `4-user-promise.js` | `signUpUser` returns a resolved Promise with the user object |
