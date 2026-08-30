@@ -23,3 +23,4 @@ and the `Set`, `Map`, and `WeakMap` data structures.
 | `3-get_ids_sum.js` | `getStudentIdsSum` reduces students to the sum of their ids |
 | `4-update_grade_by_city.js` | `updateStudentGradeByCity` filters by city and maps in new grades |
 | `5-typed_arrays.js` | `createInt8TypedArray` sets an Int8 value in a DataView |
+| `6-set.js` | `setFromArray` builds a Set from an array |
